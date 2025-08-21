@@ -35,7 +35,8 @@ int main() {
     scanf (" %d", &pontostur1);
 
     //Iniciando a entrada dos dados da segunda carta:
-    printf("\n Agora os dados da Carta 2: \n \n Digite o Estado da Carta 2: \n");
+
+    printf("\nAgora os dados da Carta 2: \n \n Digite o Estado da Carta 2: \n");
     scanf(" %c", &estado2); /*Dando instruções para entrada e armazenamento na variável*/
     
     printf("Digite o Código da Carta: \n");
