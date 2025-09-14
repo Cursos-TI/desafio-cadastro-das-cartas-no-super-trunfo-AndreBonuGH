@@ -7,7 +7,7 @@ int main() {
     // Definindo as variáveis para os atributos das Cidades 1 e 2
     int populacao1, pontostur1, populacao2, pontostur2; /*Variáveis de número inteiro definidas na mesma linha*/
     float area1, area2, pib1, pib2; /*Variáveis com casas decimais*/
-    char codigo1[4], codigo2[4];
+    char codigo1[3], codigo2[3];
     char estado1, estado2;
     char cidade1[40], cidade2[40]; /*variáveis de texto*/
     
